@@ -25,7 +25,7 @@ pip install git-ai
 ### From Source
 
 ```bash
-git clone https://github.com/ajujohn/git-ai.git
+git clone https://github.com/ajujohn2009/git-ai.git
 cd git-ai
 pip install -e .
 ```
@@ -248,7 +248,7 @@ git-ai config-set use_toon true
 ### Setup Development Environment
 
 ```bash
-git clone https://github.com/ajujohn/git-ai.git
+git clone https://github.com/ajujohn2009/git-ai.git
 cd git-ai
 pip install -e ".[dev]"
 ```
@@ -357,7 +357,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 **Aju John**
 - Website: [ajujohn.me](https://ajujohn.me)
-- GitHub: [@ajujohn](https://github.com/ajujohn)
+- GitHub: [@ajujohn2009](https://github.com/ajujohn2009)
 
 ## Acknowledgments
 
